@@ -1,0 +1,33 @@
+
+
+body {
+    font-size: 1rem;
+    font-family: 'Nanum Myeongjo', serif;
+  
+  }
+  
+.features-icons {
+  background-color: ghostwhite;
+}
+
+
+.features-icons-icon {
+  font-size: x-large;
+  /* color: #D8E2DC; */
+}
+  
+form {
+padding: 50px;
+background-color: #D8E2DC;
+}
+.form-contact {
+  width: 50%;
+}
+
+footer{
+  background-color: #f5f3f4;
+}
+
+.fa-brands {
+  color: #333433;
+}
